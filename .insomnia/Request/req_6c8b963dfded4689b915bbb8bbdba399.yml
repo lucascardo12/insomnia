@@ -1,0 +1,34 @@
+_id: req_6c8b963dfded4689b915bbb8bbdba399
+type: Request
+parentId: fld_b4f339fb6dff48539ca55bc239e5bc16
+modified: 1659138980629
+created: 1654874011526
+url: http://config.lucas-cm.com.br/fish.update
+name: fish.update
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: |-
+    {
+    		"_id": "62a14a507e21b9b8024de3fe",
+    		"name": "ativaAppwrite",
+    		"valor": false,
+    		"idLake": "629ffd9122d0c6a71e4c3962"
+    	}
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_0263014a274e490492e21a3cd5225fc0
+authentication:
+  type: bearer
+  token: bHVjYXNjYXJkbzEyOmZ1Y2t5dW8xMg==
+metaSortKey: -1654736641278
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

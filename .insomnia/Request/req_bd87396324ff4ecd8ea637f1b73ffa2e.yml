@@ -1,0 +1,33 @@
+_id: req_bd87396324ff4ecd8ea637f1b73ffa2e
+type: Request
+parentId: fld_35d84626ed2d411a835447b7e6aed93b
+modified: 1659138993859
+created: 1655861854814
+url: https://vulcannovel.com.br/wp-json/api/manga-easy/indice?id=34762
+name: New Request
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - id: pair_f2bfaa36e2034f0f9746785e11730952
+    name: User-Agent
+    value: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like
+      Gecko) Chrome/102.0.0.0 Safari/537.36
+    description: ""
+    disabled: false
+  - id: pair_453e12a4cdb44bd5b48c574c6c8412e3
+    name: Authorization
+    value: Bearer fkjdklsopwpxzjcmfrdsdfglkzsrgrexmjlgsdf
+    description: ""
+authentication:
+  type: bearer
+  token: eyJhbGciOiJIUzUxMiJ9.eyJSb2xlIjoiQWRtaW4iLCJJc3N1ZXIiOiJJc3N1ZXIiLCJVc2VybmFtZSI6IkphdmFJblVzZSIsImV4cCI6MTY1MTUxMDgwNCwiaWF0IjoxNjUxNTEwODA0fQ.q2iOBcQjNvQJXtw32zsYP6m0NLV2Pboxto92xa5t-R__HWzn2m8wc5f9uAfZof76xAaY6eZYuuGtU_lIjxusvQ
+metaSortKey: -1657196445141
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

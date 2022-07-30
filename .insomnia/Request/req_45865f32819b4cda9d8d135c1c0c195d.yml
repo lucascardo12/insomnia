@@ -1,0 +1,21 @@
+_id: req_45865f32819b4cda9d8d135c1c0c195d
+type: Request
+parentId: wrk_f7a83217c4fb45c49b69444fb1f9ef18
+modified: 1659139129934
+created: 1659138995969
+url: http://localhost/comic
+name: New Request
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1659138995969
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
